@@ -1,2 +1,3 @@
 <p align="center">Nature Tapes
-<p align="center"><img width="560" height="337" alt="image" src="https://github.com/user-attachments/assets/b65a1650-1422-4e61-989a-10a29d7de74a" />
+<p align="center"><img width="435" height="431" alt="Screenshot 2026-10-26 at 7 15 41 PM" src="https://github.com/user-attachments/assets/6423ce19-b9de-4772-8cd5-55c2de402f00" />
+
